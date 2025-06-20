@@ -24,8 +24,3 @@ A machine that doesn't fail as a whole, but improves part-by-part.
 - 🔄 Working on: Final skeleton V1.0
 - 🔄 Documenting GPT conversations and sketches
 
-## 📁 Project Files
-- [`/designs`](./designs) → CAD drafts, hinge plans, skeleton ideas
-- [`/logs`](./logs) → Build diary, updates
-- [`/docs`](./docs) → GPT discussions, vision notes, inspirations
-
