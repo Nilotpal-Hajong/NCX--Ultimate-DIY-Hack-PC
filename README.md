@@ -7,6 +7,9 @@ Welcome to the NCX Project — a fully modular, upgradeable, open-source PC fram
 **Modular, multi-core, hacker-grade cyberdeck** built from scratch.  
 Inspired by curiosity, upgraded with imagination, and designed through AI-powered planning with ChatGPT.
 
+
+![Banner](Assets/image/vision.jpeg)
+
 ## 🧠 Vision
 Create a personal computer that evolves — just like its creator. Modular, upgradable, flexible.  
 A machine that doesn't fail as a whole, but improves part-by-part.
