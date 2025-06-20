@@ -51,6 +51,7 @@ A machine that doesn't fail as a whole, but improves part-by-part.
 - Publish project variations in `/projects/`
 
 ---
+![Banner](https://juckomngzboyznbiyujn.supabase.co/storage/v1/object/public/pc-image//pc_parts.jpeg)
 
 ## 🤝 Contributions & Support
 
