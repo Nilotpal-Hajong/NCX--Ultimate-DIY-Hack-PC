@@ -1,5 +1,8 @@
 # NCX--Ultimate-DIY-Hack-PC
 
+Welcome to the NCX Project — a fully modular, upgradeable, open-source PC framework built for makers, recyclers, and tech DIY enthusiasts.
+
+---
 **Modular, multi-core, hacker-grade cyberdeck** built from scratch.  
 Inspired by curiosity, upgraded with imagination, and designed through AI-powered planning with ChatGPT.
 
