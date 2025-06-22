@@ -11,7 +11,7 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Askalatron** | DIY custom PC/laptop building frame with two hinges; upgradable design. |[Pre-Order](./Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/Shop/Products/Askalatron/Askalatron-readme.md) |
+| **Askalatron** | DIY custom PC/laptop building frame with two hinges; upgradable design. |[Pre-Order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Askalatron/Askalatron-readme.md)|
 | **Askalatron X (Exo - Spider Web)** | Advanced spider web-style custom PC frame for unique builds. | [Read More](./) |
 | **Tri** | Foldable custom laptop/PC frame featuring four powerful hinges. | [Read More](./Products/Tri/README.md) |
 | **Auto Lid Openable Frame** | Custom PC/laptop frame with auto-opening lid, two jacks, and two hinges. | [Read More](./Products/Auto-Lid-Frame/README.md) |
