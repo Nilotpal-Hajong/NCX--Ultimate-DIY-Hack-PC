@@ -11,11 +11,11 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Askalatron** | DIY custom PC/laptop building frame with two hinges; upgradable design. | [Read More](./products/askalatron/README.md) |
-| **Askalatron X (Exo - Spider Web)** | Advanced spider web-style custom PC frame for unique builds. | [Read More](./products/askalatron-x/README.md) |
-| **Tri** | Foldable custom laptop/PC frame featuring four powerful hinges. | [Read More](./products/tri/README.md) |
-| **Auto Lid Openable Frame** | Custom PC/laptop frame with auto-opening lid, two jacks, and two hinges. | [Read More](./products/auto-lid-frame/README.md) |
-| **Raspberry Pi Cluster Frame** | Hacking-grade cluster computer frame tailored for Raspberry Pi boards. | [Read More](./products/pi-cluster-frame/README.md) |
+| **Askalatron** | DIY custom PC/laptop building frame with two hinges; upgradable design. | [Read More](./Shop/Products/Askalatron/Askalatron-readme.md) |
+| **Askalatron X (Exo - Spider Web)** | Advanced spider web-style custom PC frame for unique builds. | [Read More](./) |
+| **Tri** | Foldable custom laptop/PC frame featuring four powerful hinges. | [Read More](./Products/Tri/README.md) |
+| **Auto Lid Openable Frame** | Custom PC/laptop frame with auto-opening lid, two jacks, and two hinges. | [Read More](./Products/Auto-Lid-Frame/README.md) |
+| **Raspberry Pi Cluster Frame** | Hacking-grade cluster computer frame tailored for Raspberry Pi boards. | [Read More](./Products/Pi-Cluster-Frame/README.md) |
 
 ---
 
@@ -23,9 +23,9 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Askalatron Body Cover LEGO** | Acrylic LEGO-style customizable body cover with on-the-go screw mounts. | [Read More](./products/body-cover-lego/README.md) |
-| **Hinges** | Standalone hinges for upgrades or replacements. | [Read More](./products/hinges/README.md) |
-| **Exo Stand** | Desktop stand designed specifically for custom PC/laptop frames. | [Read More](./products/exo-stand/README.md) |
+| **Askalatron Body Cover LEGO** | Acrylic LEGO-style customizable body cover with on-the-go screw mounts. | [Read More](./Products/Body-Cover-Lego/README.md) |
+| **Hinges** | Standalone hinges for upgrades or replacements. | [Read More](./Products/Hinges/README.md) |
+| **Exo Stand** | Desktop stand designed specifically for custom PC/laptop frames. | [Read More](./Products/Exo-Stand/README.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Spider X Eye Logo** | Neon glow light logo to add a cool branded look to your custom PC build. | [Read More](./products/spider-x-eye-logo/README.md) |
+| **Spider X Eye Logo** | Neon glow light logo to add a cool branded look to your custom PC build. | [Read More](./Products/Spider-x-eye-logo/README.md) |
 
 ---
 
