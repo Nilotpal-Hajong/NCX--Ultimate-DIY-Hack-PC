@@ -23,7 +23,7 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Askalatron Body Cover LEGO** | Acrylic LEGO-style customizable body cover with on-the-go screw mounts. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Ex/-README.md) |
+| **Askalatron Body Cover LEGO** | Acrylic LEGO-style customizable body cover with on-the-go screw mounts. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Lego-body-cover/Lego-body-cover-README.md) |
 | **Hinges** | Standalone hinges for upgrades or replacements. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Hinges/Hinges-README.md) |
 | **Exo Stand** | Desktop stand designed specifically for custom PC/laptop frames. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Exo-Stand/Exo-Stand-README.md) |
 
