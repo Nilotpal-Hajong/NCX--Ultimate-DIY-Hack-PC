@@ -53,6 +53,8 @@ A machine that doesn't fail as a whole, but improves part-by-part.
 ---
 ![Banner](https://juckomngzboyznbiyujn.supabase.co/storage/v1/object/public/pc-image//pc_parts.jpeg)
 
+## 🛒🛒SHOP | BUY NOW |🏷️
+![PRE-ORDER](./https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Landing-page/Landing-page.md)
 ## 🤝 Contributions & Support
 
 This is a solo-build project — growing slowly with clear structure. Feedback, suggestions, or even mirror builds are always welcome!
