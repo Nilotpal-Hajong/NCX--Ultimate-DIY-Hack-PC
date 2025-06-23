@@ -23,9 +23,9 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Askalatron Body Cover LEGO** | Acrylic LEGO-style customizable body cover with on-the-go screw mounts. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/) |
-| **Hinges** | Standalone hinges for upgrades or replacements. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/) |
-| **Exo Stand** | Desktop stand designed specifically for custom PC/laptop frames. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/) |
+| **Askalatron Body Cover LEGO** | Acrylic LEGO-style customizable body cover with on-the-go screw mounts. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Ex/-README.md) |
+| **Hinges** | Standalone hinges for upgrades or replacements. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Hinges/Hinges-README.md) |
+| **Exo Stand** | Desktop stand designed specifically for custom PC/laptop frames. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Exo-Stand/Exo-Stand-README.md) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 | Product | Description | Details |
 |---------|-------------|---------|
-| **Spider X Eye Logo** | Neon glow light logo to add a cool branded look to your custom PC build. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/) |
+| **Spider X Eye Logo** | Neon glow light logo to add a cool branded look to your custom PC build. | [Pre-order](https://github.com/Nilotpal-Hajong/NCX--Ultimate-DIY-Hack-PC/blob/main/Shop/Products/Spider-eye-logo/Spider-eye-logo-README.md) |
 
 ---
 
